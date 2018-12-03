@@ -1,0 +1,4 @@
+project.lock.json
+.vscode
+local.settings.json
+*.resources

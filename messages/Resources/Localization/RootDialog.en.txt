@@ -1,0 +1,12 @@
+CommandExercise=(?<=^task$)
+CommandProgress=(?<=^progress$)
+CommandFeedbackInline=(?<=^question.).*
+CommandFeedbackPrompt=(?<=^question)([ :-]+)?$
+CommandTestInline=(?<=^test.).*
+CommandTestPrompt=(?<=^test)([ :-]+)?$
+CommandCompanyInline=(?<=^company.).*
+CommandCompanyPrompt=(?<=^company)([ :-]+)?$
+CommandQuestionAnswer=subject
+CommandQuestionAnswerNotFound=I couldn't find the question you are trying to answer! Do not change the subject of the message!
+CommandSettingsInline=(?<=^settings.|настройки.).*
+CommandSettingsPrompt=(?<=^settings|настройки)([ :-]+)?$

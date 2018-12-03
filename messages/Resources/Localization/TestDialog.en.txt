@@ -1,0 +1,9 @@
+﻿EnterTestTitleOrCancel=Please type the name of the test you wish to take. To return to daily questions, please type "cancel".
+Cancel=cancel
+RunningTestCanceled=Test launch cancelled.
+RunningTest=Beginning test "{0}".
+TestNotFound=Test not found.
+AnswerNotFound=I couldn't find such an answer.
+TestFinished=Thank you! Test "{0}" is finished. Your current result: {1:P2}.
+BestResultPercent=Your best result of this test: {0:P2}.
+BestResult=This is currently your best result of this test.

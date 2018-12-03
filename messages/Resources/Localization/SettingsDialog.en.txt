@@ -1,0 +1,13 @@
+NoPremiumAccess=Sorry, this functionality is available only in premium subscription. For more information please visit <a href="http://www.itrainer365.com">http://www.itrainer365.com</a>
+ChoseLocale=Select language
+ChoseTimezone=Set your time zone (Greenwich Mean Time). For example, New York: -5
+RussianTitle=Russian
+EnglishTitle=English
+RussianValue=ru
+EnglishValue=en
+Submit=Send
+SettingsSaved=Settings are saved
+Yes=Yes
+No=No
+Subscribe=Do you want to subscribe for everyday exercises?
+SubscribeTime=Set time when you want to receive our everyday exercises from 1 to 24 hours. For example: 12

@@ -1,0 +1,4 @@
+QuestionListening=Ok, I'm ready. Please type the text that you would like to forward to a specialist. To return to daily questions, please type "cancel".
+QuestionCanceled=Sending a question is cancelled.
+QuestionFinished=Thank you for your request! Your message was assigned number #{0}. It was sent to a specialist most suited to deal with it. We will send you the answer within 24 hours.
+Cancel=cancel

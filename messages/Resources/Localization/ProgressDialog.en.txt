@@ -1,0 +1,3 @@
+ProgressDays=You are in the learning system: {0} {0:W;day,days,days}
+ProgressAnswers=Number of answers in exercises: {0}
+ProgressCorrectAnswersPercent=Percentage of correct answers: {0}%

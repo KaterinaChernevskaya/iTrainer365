@@ -1,0 +1,3 @@
+ProgressDays=Вы в системе обучения: {0} {0:W;день,дня,дней}
+ProgressAnswers=Количество ответов на задания: {0}
+ProgressCorrectAnswersPercent=Процент верных ответов: {0}%

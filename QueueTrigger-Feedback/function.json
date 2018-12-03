@@ -1,0 +1,22 @@
+{
+    "bindings": [
+        {
+            "name": "QueueItem",
+            "type": "queueTrigger",
+            "direction": "in",
+            "queueName": "%MessageFeedbackQueue%",
+            "connection": "AzureWebJobsStorage"
+        },
+        {
+            "type": "bot",
+            "name": "message",
+            "direction": "out",
+            "botId": "triggerbot"
+        },
+        {
+            "type": "http",
+            "name": "res",
+            "direction": "out"
+        }
+    ]
+}

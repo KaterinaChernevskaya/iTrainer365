@@ -1,0 +1,6 @@
+DefaultMessage=Извините, я не знаю, что ответить. Но научусь на следующей неделе. А вот список моих команд: <a href="https://www.itrainer365.ru/bot/">https://www.itrainer365.ru/bot/</a>
+DefaultAnswer=Добавьте сюда ваш ответ!
+NoneOfTheAboveOption=Отмена
+AnswerSelectionPrompt=Вы имели ввиду:
+TooManyAttempts=Не могу найти ни одной из этих опций
+NoneOfTheAboveOptionMessage=Мне очень жаль. Попробуйте спросить меня про Teams, Planner, Outlook, SharePoint, отчеты, почту, календари и т.д. И я очень постараюсь Вам помочь!

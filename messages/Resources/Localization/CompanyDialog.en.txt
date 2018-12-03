@@ -1,0 +1,11 @@
+EnterCodeOrCancel=Please enter the company code provided or "cancel". You can receive the company code from your manager or HR-director.
+Cancel=cancel
+EnteringCodeCanceled=Company definition cancelled.
+CompanyApplied=Thank you, now your company is defined as {0}.
+CompanyNotFound=I am sorry, I couldn't define your company. To receive a code, please contact our administrator through the website <a href="http://www.itrainer365.com">http://www.itrainer365.com</a>. Or do you want me to contact him for you?
+Yes=Yes
+No=No
+UserRequestedHelp=User requested company code details.
+UserRequestedHelpCanceled=Ok. The company definition is cancelled. I am ready to continue.
+EnterCustomName=How should I address you? (for an example your Name and Last Name).
+ProfileSaved=Thanks! Your profile has been updated successfully.

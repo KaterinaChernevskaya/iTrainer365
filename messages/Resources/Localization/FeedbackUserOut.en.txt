@@ -1,0 +1,2 @@
+MessageTextQuestion=Hello! You asked question number #{0}. Text of your message: "{1}".
+MessageTextAnswer=Answer from our specialist: "{0}"

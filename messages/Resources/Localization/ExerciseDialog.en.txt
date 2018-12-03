@@ -1,0 +1,6 @@
+Welcome=I'm here! The exercise for today:
+NoExercise=No exercises available.
+AnswerResult=Thank you for your answer! The new exercise will be available tomorrow.
+AnswerResultAlreadyExists=Thank you for your answer! Today you already answered this question, therefore this attempt will not be counted in your learning progress.
+AnswerResultAlreadyExistsNextExerciseTomorrow=A new exercise will be available tomorrow.
+AnswerResultNoAnswerFound=I didn't find these answers.

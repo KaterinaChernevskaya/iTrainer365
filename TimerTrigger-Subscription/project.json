@@ -1,0 +1,10 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+      "Microsoft.Bot.Builder.Azure": "3.2.3",
+      "System.Data.SqlClient": "4.4.2"
+      }
+    }
+   }
+}

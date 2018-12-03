@@ -1,0 +1,13 @@
+NoPremiumAccess=Извините, этот функционал доступен только в премиальной подписке. Подробная информация на сайте <a href="https://www.itrainer365.ru">https://www.itrainer365.ru</a>
+ChoseLocale=Выберите язык
+ChoseTimezone=Укажите Ваш часовой пояс (время по Гринвичу). Например, для Москвы: +3
+RussianTitle=Русский
+EnglishTitle=Английский
+RussianValue=ru
+EnglishValue=en
+Submit=Отправить
+SettingsSaved=Настройки сохранены
+Yes=Да
+No=Нет
+Subscribe=Хотите подписаться на ежедневные задания?
+SubscribeTime=Выберите время, в которое Вы бы хотели получать ежедневные задания, от 1 до 24 часов. Например: 12

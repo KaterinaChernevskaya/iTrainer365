@@ -1,0 +1,6 @@
+Welcome=Я на связи! Задание на сегодня:
+NoExercise=Ничего нет.
+AnswerResult=Спасибо за ответ! Новое задание будет доступно завтра.
+AnswerResultAlreadyExists=Благодарю за ответ! Так как сегодня Вы уже отвечали на данный вопрос - эта попытка не будет учтена в Вашем учебном прогрессе.
+AnswerResultAlreadyExistsNextExerciseTomorrow=Новое задание будет доступно завтра.
+AnswerResultNoAnswerFound=Я не нашел таких ответов.

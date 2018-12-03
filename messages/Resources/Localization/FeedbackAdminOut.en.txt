@@ -1,0 +1,3 @@
+﻿MessageText=From: {0} <{1}@{2}>\n\n\n\nQuestion: {3}
+MessageLocale=ru-ru
+MessageSubject=Subject #{0}

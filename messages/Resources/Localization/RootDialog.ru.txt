@@ -1,0 +1,12 @@
+CommandExercise=(?<=^задание$)
+CommandProgress=(?<=^прогресс$)
+CommandFeedbackInline=(?<=^вопрос.).*
+CommandFeedbackPrompt=(?<=^вопрос)([ :-]+)?$
+CommandTestInline=(?<=^тест.).*
+CommandTestPrompt=(?<=^тест)([ :-]+)?$
+CommandCompanyInline=(?<=^компания.).*
+CommandCompanyPrompt=(?<=^компания)([ :-]+)?$
+CommandQuestionAnswer=обращение
+CommandQuestionAnswerNotFound=Я не нашел вопрос, на который вы пытаетесь ответить! Не меняйте Тему письма!
+CommandSettingsInline=(?<=^настройки.|settings.).*
+CommandSettingsPrompt=(?<=^настройки|settings)([ :-]+)?$

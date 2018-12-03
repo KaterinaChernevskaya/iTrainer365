@@ -1,0 +1,6 @@
+DefaultMessage=Sorry, I couldn't understand your query. You can read about my features and commands in detail at <a href="http://www.itrainer365.com/bot/">http://www.itrainer365.com/bot/</a>
+DefaultAnswer=Put your answer here!
+NoneOfTheAboveOption=Cancel
+AnswerSelectionPrompt=Did you mean:
+TooManyAttempts=Sorry! Not able to match any of the options.
+NoneOfTheAboveOptionMessage=I’m sorry. Ask me about Excel, Planner, Outlook, SharePoint, slicer, quiz, etc. And I’ll help you!
